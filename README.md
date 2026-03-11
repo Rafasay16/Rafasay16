@@ -34,32 +34,6 @@ Estou constantemente evoluindo em estrutura de dados, arquitetura de sistemas e 
 
 ---
 
-## 📌 Meus Principais Projetos
-
-### 🛒 Sistema de Gestão Comercial
-Aplicação web para controle de produtos, clientes e vendas, com dashboard estratégico.
-
-🔹 Java + MongoDB  
-🔹 API REST  
-🔹 Modelagem de banco
-🔹 HTML + CSS
-🔹 TypeScrip
-🔹 ReactNative  
-
-[🔗 https://github.com/Rafasay16/project_insightgestor_facisa](#)
-
----
-
-### 🚀 ZeniteBooster
-Projeto pessoal focado em soluções digitais e crescimento online.
-
-🔹 Desenvolvimento de sistemas  
-🔹 Automação  
-🔹 Estratégia digital  
-
-[🔗 https://www.instagram.com/zenitebooster/](#)
-
----
 
 ## 📚 Atualmente Estudando
 
