@@ -3,7 +3,7 @@
 
 ## ♦︎ About me
 
-♣︎ Information Systems student — UniFacisa  
+♣︎ Information Systems — UniFacisa  
 ♦︎ Campina Grande - PB  
 ♠︎ Seeking my first professional opportunity in the technology field.  
 
